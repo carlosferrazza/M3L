@@ -27,6 +27,7 @@ If you find M3L useful for your research, please cite this work:
 @article{sferrazza2023power,
   title={The power of the senses: Generalizable manipulation from vision and touch through masked multimodal learning},
   author={Sferrazza, Carmelo and Seo, Younggyo and Liu, Hao and Lee, Youngwoon and Abbeel, Pieter},
+  journal={arXiv preprint arXiv:2311.00924},
   year={2023}
 }
 ```
